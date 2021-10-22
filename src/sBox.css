@@ -1,0 +1,13 @@
+input{
+    background-color: #000000;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    color: rgb(48 135 169);
+    box-shadow: 2px 2px 4px 1px #663d83;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
